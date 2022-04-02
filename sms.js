@@ -3,8 +3,8 @@ const https = require("https");
 const btoa = require("btoa");
 
 const content_type = "application/json";
-const api_key = "518382c023b92128";
-const secret_key = "ZGYwMzc2OTBkNTEzMWE2MjA4ODg1ZTczNDRkNzU2YmQ1YzBjMDk5MjAwM2I0MzViZWQyNzRmMGIzMDIyMDdkNQ==";
+const api_key = "";
+const secret_key = "";
 const msgToSend ="Get 50% off all our beverages when you order a two piece meal " + 
                 "this weekend from any of our restaurants! Don't miss out on " +
                 "this EXCLUSIVE OFFER! from Beemathon App";
