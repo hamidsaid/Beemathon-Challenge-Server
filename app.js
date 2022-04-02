@@ -7,8 +7,8 @@ const https = require("https");
 const btoa = require("btoa");
 
 const content_type = "application/json";
-const api_key = "8842b33dd2179500";
-const secret_key = "OWRkZGVmMjVlYTA4Y2E0ZmUxMDgyZTNjNGJkMmM2MWEyN2RjMTgyZWI3MmM5Y2Y1ZjE3NmY3MzkyNzkzODJiOA==";
+const api_key = "";
+const secret_key = "";
 let sentPinId ="";
 
 
