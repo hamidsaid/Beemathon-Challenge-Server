@@ -7,8 +7,8 @@ const express = require('express')
 const app = express()
 
 const url = "https://checkout.beem.africa/v1/checkout";
-const api_key = "a91e94c5b28a9c84";
-const secret_key = "NTI0M2FjMWVkNDUyZDQyYTI4MjM2ODc3NGZmNTY5ZjMyZTNhYmExN2M0NTRiZDM2ZTI1ZDBiNDM4ZTU3MmU0Yg==";
+const api_key = "";
+const secret_key = "";
 const content_type = "application/json";
 const mobile ="255653448900";
 const refNumb="SAID-2244";
